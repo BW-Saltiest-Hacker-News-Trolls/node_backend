@@ -28,4 +28,4 @@ server.get('/', (req, res) => {
     res.send('<h1>Welcome to the Hacker-News-Api Backend!</h1>');
 });
 
-module.exports = server;
+module.exports = server; 
