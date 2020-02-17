@@ -25,4 +25,4 @@ router.get('/', (req, res) => {
     res.send('<h1>Api is up and running</h1>');
 });
 
-module.exports = router;
+module.exports = router; 
