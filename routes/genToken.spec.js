@@ -10,4 +10,4 @@ describe('generate token helper function', () => {
         expect(typeof token).toBe('string');
     })
 
-})
+}) 

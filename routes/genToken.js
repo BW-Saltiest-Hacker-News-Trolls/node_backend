@@ -12,6 +12,6 @@ function genToken(user) {
     const signedToken = jwt.sign(payload, jwtSecret, options);
 
     return signedToken;
-}
+} 
 
 module.exports = genToken;
